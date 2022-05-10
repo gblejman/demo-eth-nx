@@ -8,6 +8,7 @@
   "devDependencies": {
     "@nrwl/cli": "14.1.4",
     "@nrwl/js": "14.1.4",
+    "@nrwl/next": "^14.1.4",
     "@nrwl/nx-cloud": "latest",
     "@nrwl/workspace": "14.1.4",
     "nx": "14.1.4",
