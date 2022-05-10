@@ -1,4 +1,7 @@
 {
   "version": 2,
-  "projects": {}
+  "projects": {
+    "dapp": "packages/dapp",
+    "dapp-e2e": "packages/dapp-e2e"
+  }
 }
